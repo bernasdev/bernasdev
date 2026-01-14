@@ -56,8 +56,8 @@ Busco evoluir constantemente, escrevendo código funcional, organizado e aplicá
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bernasdev&show_icons=true&theme=transparent&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernasdev&layout=compact&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bernasdev&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernasdev&layout=compact&theme=github_dark" />
 </p>
 
 ---
