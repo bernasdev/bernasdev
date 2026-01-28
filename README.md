@@ -8,8 +8,9 @@
 
 ## 👤 Sobre mim
 
-Meu nome é **Bernardo de Souza Madureira**, estudante de **Análise e Desenvolvimento de Sistemas (SENAI São Caetano)**  
+Meu nome é **Bernardo de Souza Madureira**, técnico em **Desenvolvimento de Sistemas (SENAI São Caetano do Sul)**, atualmente cursando **Análise e Desenvolvimento de Sistemas (SENAI São Caetano do Sul)**  
 Atuo como **desenvolvedor fullstack**, com foco em **construir sistemas reais** em projetos pessoais e acadêmicos — APIs, interfaces, integrações e lógica de negócio.
+Minha principal stack é o JavaScript, usando Node.js e Express.js para construir APIs REST, e Next.js (React, tailwind) para o frontend
 
 Busco evoluir constantemente, escrevendo código funcional, organizado e aplicável a cenários do mundo real.
 
